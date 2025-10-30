@@ -1,0 +1,30 @@
+{
+  "name": "ai-services-hub-server",
+  "version": "1.0.0",
+  "description": "Backend server for AI Agent Services Hub",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^8.1.0",
+    "helmet": "^7.1.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "node-translate": "^0.0.4",
+    "rate-limiter-flexible": "^4.0.1",
+    "sentiment": "^5.0.2",
+    "sharp": "^0.33.0",
+    "tesseract.js": "^5.1.1",
+    "uuid": "^9.0.1",
+    "x402": "^0.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

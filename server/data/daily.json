@@ -1,0 +1,14 @@
+{
+  "stats": [
+    {
+      "date": "2025-10-29",
+      "requests": 7,
+      "revenue": 0.02
+    },
+    {
+      "date": "2025-10-30",
+      "requests": 2,
+      "revenue": 0.01
+    }
+  ]
+}

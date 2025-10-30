@@ -1,0 +1,34 @@
+{
+  "services": {
+    "text-analysis": {
+      "name": "Análisis de Sentimientos",
+      "requests": 9,
+      "revenue": 0.030000000000000002,
+      "errors": 3
+    },
+    "image-resize": {
+      "name": "Redimensionar Imagen",
+      "requests": 0,
+      "revenue": 0,
+      "errors": 0
+    },
+    "ocr": {
+      "name": "OCR",
+      "requests": 0,
+      "revenue": 0,
+      "errors": 0
+    },
+    "text-translate": {
+      "name": "Traducción de Texto",
+      "requests": 0,
+      "revenue": 0,
+      "errors": 0
+    },
+    "image-optimize": {
+      "name": "Optimización de Imagen",
+      "requests": 0,
+      "revenue": 0,
+      "errors": 0
+    }
+  }
+}
